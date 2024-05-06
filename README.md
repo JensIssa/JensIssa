@@ -3,7 +3,7 @@
 <table>
     <tr>
         <td>
-            <img style="width: 490px;" class="output" src="https://github-readme-stats.vercel.app/api?username=&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
+            <img style="width: 490px;" class="output" src="https://github-readme-stats.vercel.app/api?username=JensIssa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
             <br>
             <img style="width: 490px;" class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=JensIssa&theme=tokyonight&hide_border=true">
         </td>
