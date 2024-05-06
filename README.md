@@ -8,4 +8,4 @@
             <img style="width: 490px;" class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=JensIssa&theme=tokyonight&hide_border=true">
         </td>
         <td>
-            <img style="height: 410px;" class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ominousity&langs_count=8&theme=tokyonight&hide_border=true">
+            <img style="height: 410px;" class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JensIssa&langs_count=8&theme=tokyonight&hide_border=true">
